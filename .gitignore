@@ -1,0 +1,7 @@
+# MacOS
+.DS_Store
+
+# Some other files
+pylintrc
+temp/
+test/
